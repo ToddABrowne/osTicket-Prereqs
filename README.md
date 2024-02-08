@@ -22,17 +22,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
--Enable IIS in Windows with CGI and Common HTTP Features
+- Enable IIS in Windows with CGI and Common HTTP Features
 
--Install PHP Manager for IIS
+- Install PHP Manager for IIS
 
--Install Rewrite Module 
+- Install Rewrite Module 
 
--Install PHP 7.3.8 
+- Install PHP 7.3.8 
 
--Install VC_redist.x86.exe 
+- Install VC_redist.x86.exe 
 
--Install MySQL 5.5.62
+- Install MySQL 5.5.62
 
 
 
