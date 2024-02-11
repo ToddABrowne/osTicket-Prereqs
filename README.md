@@ -57,9 +57,9 @@ To start the process of setting up this osTicket system. Enabling the Internet I
 </p>
 <img src="https://i.imgur.com/kq511DH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The first installation is the PHP Manager for IIS. This allows users to configure various PHP settings, version management, and handler mapping within the IIS Manager interface. The second installation is the Rewrite Module. Overall, it helps in enhancing the flexibility and functionality of websites hosted on IIS servers.
+  
 </p>
 <br />
 
