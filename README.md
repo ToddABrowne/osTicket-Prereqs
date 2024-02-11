@@ -39,8 +39,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/swPr4L2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VUxl5Y5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+
 </p>
+<img src="https://i.imgur.com/rAHBTGG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <p>
 To start the process of setting up this osTicket system. Enabling the Internet Information Service (IIS), CGI, and Common HTTP Features is an required step to initaite the installation files.
 </p>
