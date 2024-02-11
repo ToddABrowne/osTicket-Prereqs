@@ -59,8 +59,19 @@ To start the process of setting up this osTicket system. Enabling the Internet I
 
 <p>
 The first installation is the PHP Manager for IIS. This allows users to configure various PHP settings, version management, and handler mapping within the IIS Manager interface. There are more features besides those previous mention. The second installation is the Rewrite Module. Overall, it helps in enhancing the flexibility and functionality of websites hosted on IIS servers.
+
   
 </p>
+<img src="https://i.imgur.com/GTSIaxY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<img src="https://i.imgur.com/LGEq4zh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+These particular steps consist of creating the PHP folder on the C drive. By placing PHP files in this folder, user can easily access and manage them within the ticket system setup.
+
+
+
 <br />
 
 <p>
