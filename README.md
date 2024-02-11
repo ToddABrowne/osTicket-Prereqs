@@ -80,6 +80,6 @@ These particular steps consist of creating the PHP folder on the C drive. By pla
 <img src="https://i.imgur.com/7zGPJyz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this final prerequisite installation. The VC_redist or Visual C++ Redistributable is a set of runtime components required for running applications developed with the C++. This insures ticket system will be deployed, ensuring compatibility and proper functioning of the applcation. Installing MySQL allows users to create, read, update, and delete data in the database. MySQL also provides a reliable and scalable platform for storiing and retrieving data, enabling developers to build robust and dynamic web applications.
 </p>
 <br />
