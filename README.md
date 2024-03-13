@@ -47,10 +47,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-To start the process of setting up this osTicket system. Enabling the Internet Information Service (IIS), CGI, and Common HTTP Features is an required step to initaite the installation files.
-</p>
+To start the process of setting up this osTicket system. Enabling the Internet Information Service (IIS), CGI, and Common HTTP Features is a required step to initiate the installation file</p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/qmptDlC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
